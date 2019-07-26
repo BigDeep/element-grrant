@@ -120,56 +120,56 @@ export default {
           taskName: '任务名称',
           startTime: '开始时间',
           useTime: '2',
-          follower: '李宇峰'
+          follower: '李xx'
         },
         {
           id: 2,
           taskName: '任务名称',
           startTime: '开始时间',
           useTime: '3',
-          follower: '庄礼'
+          follower: '庄x'
         },
         {
           id: 3,
           taskName: '任务名称',
           startTime: '开始时间',
           useTime: '4',
-          follower: '项华杰'
+          follower: '项xx'
         },
         {
           id: 4,
           taskName: '任务名称',
           startTime: '开始时间',
           useTime: '5',
-          follower: '李宇峰'
+          follower: '李xx'
         },
         {
           id: 5,
           taskName: '任务名称',
           startTime: '开始时间',
           useTime: '5',
-          follower: '李宇峰'
+          follower: '李xx'
         },
         {
           id: 6,
           taskName: '任务名称',
           startTime: '开始时间',
           useTime: '5',
-          follower: '李宇峰'
+          follower: '李xx'
         },
         {
           id: 7,
           taskName: '任务名称',
           startTime: '开始时间',
           useTime: '5',
-          follower: '李宇峰'
+          follower: '李xx'
         },
         {
           id: 8,
           taskName: '任务名称',
           startTime: '开始时间',
           useTime: '5',
-          follower: '李宇峰'
+          follower: '李xx'
         }
       ],
       current: false
